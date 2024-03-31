@@ -2,20 +2,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: YOURLS 1.8\n"
 "POT-Creation-Date: 2021-02-22 12:09+0100\n"
-"PO-Revision-Date: 2021-06-17 10:33+0200\n"
+"PO-Revision-Date: 2024-03-31 15:54+0200\n"
+"Last-Translator: Christian Severin\n"
 "Language-Team: Sevtec.de – MediaDesign\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.2\n"
 "X-Poedit-KeywordsList: yourls__;yourls_e;yourls_s;yourls_se;"
 "yourls_esc_attr__;yourls_esc_html__;yourls_x;yourls_ex;yourls_esc_attr_x;"
 "yourls_esc_html_x;yourls_n:1,2;yourls_nx:1,2;yourls_n_noop:1,2;"
 "yourls_nx_noop:1,2\n"
 "X-Poedit-Basepath: .\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Last-Translator: Christian Severin\n"
-"Language: de\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: tests\n"
 "X-Poedit-SearchPathExcluded-1: user\n"
@@ -99,8 +99,8 @@ msgstr[1] "zähle <strong>%s</strong> Klicks"
 #: admin/index.php:305
 #, php-format
 msgid ""
-"Overall, tracking <strong class=\"increment\">%1$s</strong> links, <strong>"
-"%2$s</strong> clicks, and counting!"
+"Overall, tracking <strong class=\"increment\">%1$s</strong> links, "
+"<strong>%2$s</strong> clicks, and counting!"
 msgstr ""
 "Insgesamt, Tracking von <strong class=\"increment\">%1$s</strong> Links, "
 "<strong>%2$s</strong> Klicks und mehr!"
@@ -243,8 +243,8 @@ msgstr "Mehr Plugins"
 
 #: admin/plugins.php:162
 msgid ""
-"For more plugins, head to the official <a href=\"http://yourls.org/awesome"
-"\">Plugin list</a>."
+"For more plugins, head to the official <a href=\"http://yourls.org/"
+"awesome\">Plugin list</a>."
 msgstr ""
 "Weitere Plugins finden sich in der offiziellen <a href=\"http://yourls.org/"
 "awesome\">Plugin-Liste</a>."
@@ -543,11 +543,11 @@ msgstr ""
 
 #: admin/upgrade.php:55
 msgid ""
-"If everything goes too fast and you cannot read, <span class=\"success"
-"\">good for you</span>, let it go :)"
+"If everything goes too fast and you cannot read, <span "
+"class=\"success\">good for you</span>, let it go :)"
 msgstr ""
-"Wenn alles zu schnell geht und Sie nicht lesen können, <span class=\"success"
-"\">gut für Sie</span>, lassen Sie es :)"
+"Wenn alles zu schnell geht und Sie nicht lesen können, <span "
+"class=\"success\">gut für Sie</span>, lassen Sie es :)"
 
 #: admin/upgrade.php:56
 msgid "Once you are ready, press \"Upgrade\" !"
@@ -707,8 +707,8 @@ msgstr "Schwerwiegender Fehler"
 #, php-format
 msgid "Could not auto-encrypt passwords. Error was: \"%s\"."
 msgstr ""
-"Kennwörter konnten nicht automatisch verschlüsselt werden. Fehler war: \"%s"
-"\"."
+"Kennwörter konnten nicht automatisch verschlüsselt werden. Fehler war: "
+"\"%s\"."
 
 #: includes/auth.php:55
 #, php-format
@@ -1147,11 +1147,11 @@ msgstr "PM"
 
 #: includes/functions-l10n.php:823
 msgid "number_format_thousands_sep"
-msgstr "."
+msgstr ""
 
 #: includes/functions-l10n.php:827
 msgid "number_format_decimal_point"
-msgstr ","
+msgstr ""
 
 #: includes/functions-l10n.php:834
 msgid "ltr"
