@@ -4,7 +4,7 @@
 
 ## Version
 
-YOURLS **1.8**
+YOURLS **1.92 / 1.93-dev**
 
 ## Installation
 
@@ -22,7 +22,10 @@ Idealerweise *forken* Sie dieses *Repository*, ändern Sie die Datei und erstell
 
 ## Credits
 
-Die Übersetzung wird gepflegt von [@DerSev](https://github.com/DerSev)
+Die Übersetzung ursprünglich von [@DerSev](https://github.com/DerSev). Fork dann durch [@agru](https://github.com/agru) und [@ArnaudFeld](https://github.com/arnaudfeld)
+
+## letzte Änderung/Anpassung
+Änderung entfernt die Trennzeichen für die tausender Einheiten. Vorher wurde in der Shortlink Übersicht z.b.: 1.234 ganz unten bei der Links mit nur einem Klick angezeigt
 
 ## Lizenz
 
